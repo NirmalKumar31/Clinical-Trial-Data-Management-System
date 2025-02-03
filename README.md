@@ -2,6 +2,7 @@
 
 ### 📌 **IE 6700 - Data Management for Analytics**  
 👥 **Author:** Nirmalkumar Thirupallikrishnan Kesavan
+📅 **Date:** September 2024 - November 2024  
 
 ---
 
@@ -55,12 +56,12 @@ Designed **EER and UML diagrams** to map relationships:
 ### 🗄️ **Relational Model (MySQL)**  
 Structured relational model with **primary & foreign key constraints** ensuring data integrity.  
 
-📄 [**SQL Implementation Report**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/daba2e10b2083bf654d6522fc06fdcc0727ee081/Clinical%20Trail%20Database%20Management%20System/SQL%20Implementation%20.pdf)  
+📄 [**SQL Implementation**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/daba2e10b2083bf654d6522fc06fdcc0727ee081/Clinical%20Trail%20Database%20Management%20System/SQL%20Implementation%20.pdf)  
 
 ---
 
 ### 📊 **NoSQL Database (MongoDB)**  
-📄 [**NoSQL Implementation Report**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/3b7302cf414f0f8f776bf15b424471ec5569030c/Clinical%20Trail%20Database%20Management%20System/NoSQL%20Implementation.pdf)  
+📄 [**NoSQL Implementation**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/3b7302cf414f0f8f776bf15b424471ec5569030c/Clinical%20Trail%20Database%20Management%20System/NoSQL%20Implementation.pdf)  
 
 🌍 **MongoDB Atlas for Unstructured Data**  
 ✅ Stores patient records, unstructured trial data  
@@ -71,14 +72,28 @@ Structured relational model with **primary & foreign key constraints** ensuring 
 ## 📈 Data Analytics & Visualization  
 
 ### 📊 **Insights from Clinical Trials**  
-To analyze **key trends, patient demographics, and trial outcomes**, the system leverages **Python-based visualizations**:  
-✅ **Age Distribution of Patients**  
-✅ **Number of Treatments Over Time**  
-✅ **Common Side Effects Analysis**  
-✅ **Top 5 Drugs Used in Trials**  
+To analyze **key trends, patient demographics, and trial outcomes**, the system leverages **Python-based visualizations**:
 
-🖼️ **Sample Visualization:**  
-![Data Visualization](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/tree/0bd4750cc3a26c798ce30a72b7e7d7ad64d4eb02/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization)
+✅ **Age Distribution of Patients**  
+![Age Distribution](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Age%20distribution%20of%20patients.png)  
+
+✅ **Age Distribution Across Genders**  
+![Age vs Gender](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Age%20distribution%20across%20genders.png)  
+
+✅ **Most Common Side Effects**  
+![Side Effects Analysis](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Most%20common%20side%20effects.png)  
+
+✅ **Number of Patients by Gender**  
+![Patients by Gender](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Number%20of%20patients%20by%20gender.png)  
+
+✅ **Number of Treatments Over Time**  
+![Treatments Over Time](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Number%20of%20treatments%20over%20time.png)  
+
+✅ **Top 5 Drugs Used in Treatments**  
+![Top Drugs](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Top%205%20drugs%20used%20in%20treatments.png)  
+
+✅ **Total Quantity by Product Type**  
+![Product Quantity](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Total%20quantity%20by%20product%20type.png)  
 
 ---
 
@@ -96,14 +111,17 @@ To analyze **key trends, patient demographics, and trial outcomes**, the system 
 The **Clinical Trial Database Management System** is a **scalable, efficient, and data-driven solution** for managing **clinical trials, patient data, and research insights**.  
 
 ✅ **Integrated MySQL & MongoDB for optimized performance**  
-✅ **Automated data entry & real-time analytics**  
 ✅ **Faster clinical trial decisions & improved healthcare outcomes**  
 
 📄 [**Full Project Report**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/3b7302cf414f0f8f776bf15b424471ec5569030c/Clinical%20Trail%20Database%20Management%20System/Clinical%20Trial%20Database%20Management%20System-Report.pdf)  
 
 ---
 
-## 🤝 Contributors 🎓  
-- **Nirmalkumar Thirupallikrishnan Kesavan**  
+## ⭐ Contribute & Connect
+💡 If you find this useful, star ⭐ this repo!  
+
+🔗 LinkedIn: [Nirmalkumar Thirupallikrishnan Kesavan](https://www.linkedin.com/in/nirmalkumartk/)  
+🔗 GitHub: [NirmalKumar31](https://github.com/NirmalKumar31)  
+
 
 📩 **For questions, feel free to reach out!** 🚀  
