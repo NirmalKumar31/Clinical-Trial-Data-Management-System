@@ -2,6 +2,7 @@
 
 ### 📌 **IE 6700 - Data Management for Analytics**  
 👥 **Author:** Nirmalkumar Thirupallikrishnan Kesavan
+
 📅 **Date:** September 2024 - November 2024  
 
 ---
@@ -73,6 +74,8 @@ Structured relational model with **primary & foreign key constraints** ensuring 
 
 ### 📊 **Insights from Clinical Trials**  
 To analyze **key trends, patient demographics, and trial outcomes**, the system leverages **Python-based visualizations**:
+
+📄 [**Python Implementation Code**](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/52a4e0d4fe67e4463c31e278a66a8e3f49096e9a/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Python%20Implementation%20file.py) 
 
 ✅ **Age Distribution of Patients**  
 ![Age Distribution](https://github.com/NirmalKumar31/Clinical-Trial-Data-Management-System/blob/ffaf0f2f239e064a2bc7b43698262bb87d5fb731/Clinical%20Trail%20Database%20Management%20System/Data%20Visualization/Age%20distribution%20of%20patients.png)  
