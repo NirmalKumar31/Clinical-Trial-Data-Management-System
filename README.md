@@ -2,6 +2,7 @@
 
 ### 📌 **IE 6700 - Data Management for Analytics**  
 👥 **Author:** Nirmalkumar Thirupallikrishnan Kesavan
+
 📅 **Date:** September 2024 - November 2024  
 
 ---
